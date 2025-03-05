@@ -12,7 +12,7 @@ public class DemoSpringAzureAppApplication {
 	@GetMapping("/greet")
 	public String greetMe()
 	{
-		return "Hello Abhishek Baheti";
+		return "Hello World";
 	}
 
 	public static void main(String[] args) {
